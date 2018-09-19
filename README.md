@@ -13,4 +13,4 @@ The course starts with basic python syntax and relevant libraries such as numpy 
 ### Mini Project
 This is basically a data visualization project. The goal is to visualize MTA ridership in terms of popularity of respective stations. I heavily utilized geographical data with help of libraries like 'geopandas'. Some findings are that Manhattan is very busy and that Manhattan is not the only one that has busy stations. More detail can be found by visiting the ['Mini project'](https://github.com/Q-shick/Intro-to-Data-Science/blob/master/Mini%20Project.ipynb) folder.
 
-![MTA](C:\Users\qshick\etc\Documents\Mooc\Udacity - Intro to Data Science\Data\MTA_ridership)
+![MTA]("Data/MTA_ridership")
